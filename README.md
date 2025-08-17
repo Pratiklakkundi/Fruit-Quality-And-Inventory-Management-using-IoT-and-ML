@@ -1,4 +1,5 @@
-# IoT-Based Fruit Quality and Inventory Management System
+# Fruit-Quality-And-Inventory-Management-using-IoT-and-ML
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Arduino](https://img.shields.io/badge/Arduino-Compatible-blue.svg)](https://www.arduino.cc/)
