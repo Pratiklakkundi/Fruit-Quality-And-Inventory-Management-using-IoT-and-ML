@@ -96,7 +96,7 @@ Relay: VCC→3.3V, GND→GND, IN1→D6, IN2→D7
 ### Software Installation
 
 1. **Clone Repository**:
-git clone https://github.com/yourusername/iot-fruit-quality-system.git
+git clone (https://github.com/Pratiklakkundi/Fruit-Quality-And-Inventory-Management-using-IoT-and-ML.git)
 cd iot-fruit-quality-system
 
 
