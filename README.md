@@ -43,16 +43,7 @@ The IoT-Based Fruit Quality and Inventory Management System is a comprehensive s
 
 ## 🏗️ System Architecture
 
-┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐
-│ Sensor Layer │───▶│ Processing Layer │───▶│ Cloud Layer │
-│ │ │ │ │ │
-│ - DHT22 │ │ - NodeMCU │ │ - Firebase DB │
-│ - MQ-135 │ │ - ESP8266/32 │ │ - Real-time │
-│ - HX711 │ │ - Data │ │ Sync │
-│ - LDR │ │ Processing │ │ - Web Dashboard │
-│ - PIR │ │ - ML Inference │ │ - Alerts │
-└─────────────────┘ └─────────────────┘ └─────────────────┘
-
+<img width="539" height="391" alt="Screenshot 2025-08-17 161957" src="https://github.com/user-attachments/assets/a7d9eaab-3c8a-4232-ac87-50380bf9c5a1" />
 
 
 ## 🔧 Hardware Components
